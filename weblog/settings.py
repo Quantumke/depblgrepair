@@ -89,10 +89,10 @@ else:
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
             'NAME': 'ishiblog',
-            'USER': 'root',
+            'USER': 'postgres',
             'PASSWORD': 'master12!',
             'HOST': 'localhost',
-            'PORT': '',
+            'PORT': '5432',
         }
     }
 # Password validation
