@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e538bfe4-ca7c-4d1f-8b14-f0128ccfd3c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ebextensions/02_python.config" afterPath="$PROJECT_DIR$/.ebextensions/02_python.config" />
-    </list>
+    <list default="true" id="e538bfe4-ca7c-4d1f-8b14-f0128ccfd3c3" name="Default" comment="" />
     <ignored path="weblog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
